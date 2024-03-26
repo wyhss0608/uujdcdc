@@ -1,0 +1,33 @@
+{
+  "name": "uujdcdc",
+  "version": "1.0.2",
+  "description": "",
+  "type": "module",
+  "main": "coin_scan_binance.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wyhss0608/uujdcdc"
+  },
+  "website": "https://github.com/wyhss0608/uujdcdc.git",
+  "keywords": [
+    "binance",
+    "client",
+    "arbitrim"
+  ],
+  "author": "wyhss0608",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wyhss0608/uujdcdc/issues"
+  },
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.org"
+  },
+  "homepage": "https://github.com/wyhss0608/uujdcdc#readme",
+  "dependencies": {
+    "jjjeindcd": "1.0.2"
+  }
+}
