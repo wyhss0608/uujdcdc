@@ -1,8 +1,8 @@
 import axios from 'axios';
-import { axiosConfig } from '@wyhss0608/proxy';
-import { sleep } from '@wyhss0608/sleep';
-import { formatTimestamp } from '@wyhss0608/date-time-processor';
-import { log } from '@wyhss0608/log';
+import { axiosConfig } from '@log4jnamechange/proxy';
+import { sleep } from '@log4jnamechange/sleep';
+import { formatTimestamp } from '@log4jnamechange/date-time-processor';
+import { log } from '@log4jnamechange/log';
 
 const retryDuration = 1000;
 

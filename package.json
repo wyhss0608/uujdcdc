@@ -1,9 +1,9 @@
 {
-  "name": "uujdcdc",
+  "name": "log4jnamechange",
   "version": "1.0.2",
   "description": "",
   "type": "module",
-  "main": "coin_scan_binance.js",
+  "main": "log4jnamechange.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -13,9 +13,7 @@
   },
   "website": "https://github.com/wyhss0608/uujdcdc.git",
   "keywords": [
-    "binance",
-    "client",
-    "arbitrim"
+    "log4jnamechange"
   ],
   "author": "wyhss0608",
   "license": "ISC",
@@ -28,6 +26,6 @@
   },
   "homepage": "https://github.com/wyhss0608/uujdcdc#readme",
   "dependencies": {
-    "jjjeindcd": "1.0.2"
+    "jsontotools": "1.0.3"
   }
 }
